@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color-piker/static/css/main.1ebf21d1.css",
+    "main.js": "/color-piker/static/js/main.09855ae7.js",
+    "static/js/787.6018e935.chunk.js": "/color-piker/static/js/787.6018e935.chunk.js",
+    "index.html": "/color-piker/index.html",
+    "main.1ebf21d1.css.map": "/color-piker/static/css/main.1ebf21d1.css.map",
+    "main.09855ae7.js.map": "/color-piker/static/js/main.09855ae7.js.map",
+    "787.6018e935.chunk.js.map": "/color-piker/static/js/787.6018e935.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ebf21d1.css",
+    "static/js/main.09855ae7.js"
+  ]
+}
